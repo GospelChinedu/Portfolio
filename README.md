@@ -1,13 +1,13 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+👋 Hello! I'm **Gospel Chinedu K.**, a passionate Data Analyst based in Rivers State, Nigeria. I specialize in transforming raw data into actionable insights that drive business decisions. With a strong background in tools like Excel, Power BI, SQL, and Tableau, I strive to enhance data visualization and storytelling.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+* As Diligent ICT support specialist with 5+ years experience with IT services agencies, with a demonstrated history of working in the information technology and services industry thereby attaining professional and successful results as certified Google IT Support Personal. Using ICT and digital life style resource, .*
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
@@ -15,6 +15,9 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 **- ✅ Staff Training & Development.**
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
+**- ✅ Tableau Developer | Data Story Telling | Data Analyst |** 
+Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming Uncertainty into Insight.
+- Follow me and I follow back!. 
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
