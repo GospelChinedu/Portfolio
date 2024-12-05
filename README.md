@@ -7,7 +7,7 @@
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-* As Diligent ICT support specialist with 5+ years experience with IT services agencies, with a demonstrated history of working in the information technology and services industry thereby attaining professional and successful results as certified Google IT Support Personal. Using ICT and digital life style resource, .*
+* As Diligent ICT support specialist and Proffesional Data Analyst with 5+ years experience with IT services agencies, with a demonstrated history of working in the information technology and services industry thereby attaining professional and successful results in MDA (SQL TABLEAU) IT Support Personal, Using ICT and digital life style resource, .*
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
