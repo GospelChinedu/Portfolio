@@ -36,8 +36,7 @@ Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming
 
 Ad Sales Dashboard 
 Showing results for Advert Sales Drivers and their performance metrics Viz / #50.
-
-[Dashboard](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/Ads-SalesDashboard/Dashboard1)
+[Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/Ads-SalesDashboard/Dashboard1)
 
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7303581624032481280/)
 
@@ -48,8 +47,9 @@ Showing results for Advert Sales Drivers and their performance metrics Viz / #50
 Healthcare service providers face challenges in managing patient bookings, reducing missed appointments, and improving patient satisfaction
 
 ✅ This Dashboard is designed with digital transformation parameter tool,  playing a crucial role in optimizing patient care and service delivery... 
+[TableauViz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/HealthPlusDashboard/HEALTHPlusDASHBOARD)
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/feed/update/urn:li:activity:7313765139105677313/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
