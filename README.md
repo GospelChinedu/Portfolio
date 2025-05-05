@@ -90,13 +90,13 @@ The CMD will love to know which Stage of cancer is more Threatening so as to cha
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/CHOCOSALESANALYTICDASHBOARD/CHOCOSALESDB1)
 
 
-## MY CLASSES
-![image](assets/class.jpg)
-*Call my admin for details about the classes: 08034730987.*
+## MY SERVICES
+![image](assets/2.png)
+*Contact for Support Services: 08068799778.*
 
-- Settings | One-on-One, Group, Communities.								       		
-- Platforms	| Physical or Virtual, Weekday or Weekend. 			        		
-- Courses | Advanced Excel, Statistics, Power BI, SQL, Tableau, Python.
+- Consultant | Private, Business, Companies, Educational Centers.								       		
+- Platforms	 | Physical, Virtual, Remotely. 			        		
+- Courses    | ICT Digital Life Style , Advanced Excel, Power BI, SQL, Tableau, AWS.
 
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
@@ -104,6 +104,7 @@ The CMD will love to know which Stage of cancer is more Threatening so as to cha
 *Click to Access Videos and Learning Materials.*
 
 [YOUTUBE](https://www.youtube.com/@NedteCh)
+
 
 **Performance Analysis**
 ![image](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
