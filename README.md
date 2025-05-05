@@ -3,6 +3,8 @@
 
 👋 Hello!
 I'm **Gospel Chinedu K.**, a passionate Data Analyst based in Rivers State, Nigeria. I specialize in transforming raw data into actionable insights that drive business decisions. With a strong background in tools like Excel, Power BI, SQL, and Tableau, I strive to enhance data visualization and storytelling.
+
+## Experience
 I am experienced, dedicated, results-oriented in Deskside Support and Help Desk Services with the Concept and scope of work which includes sever management, content development, Incident Management, software and hardware including Microsoft applications. 
 
 
@@ -23,18 +25,19 @@ Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
-[Click to View](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/vizzes)
+[Click to View My Portfolio](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/vizzes)
 
 
 *Feel free to explore my Real world projects and work.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Analysis Modelling and Design Implimentaion using JT Advertizing Sales Company.**
 ![image](assets/car2.jpeg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+Ad Sales Dashboard 
+Showing results for Advert Sales Drivers and their performance metrics Viz / #50.
+[Dashboard](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/Ads-SalesDashboard/Dashboard1)
 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/feed/update/urn:li:activity:7303581624032481280/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
