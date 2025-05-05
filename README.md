@@ -68,7 +68,6 @@ One page keeps things simple for Non-technical users. No need to toggle between 
 ![image](assets/Hotel .jpg)
 
 Understanding the demographics and booking patterns of the hotel's guests, Hence Evaluating guest satisfaction and loyalty, including factors that influence their satisfaction and NPS ratings.
-
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/HotelCustomerServiceFeedback/MainDashboard)
 
 
@@ -81,7 +80,6 @@ The Performance of the Dashboard Uncovered meaninful insight, Showing...
 👉Relationship between $ Sales & # Quantity
 👉Clickable Filter Drop down Button
 👉Calendar Filter button Slicing through Month/Week/Day
-
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/CHOCOSALESANALYTICDASHBOARD/CHOCOSALESDB1)
 
 
