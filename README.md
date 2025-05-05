@@ -35,7 +35,7 @@ Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming
 ![image](assets/AD Sales.jpg)
 
 Ad Sales Dashboard 
-Showing results for Advert Sales Drivers and their performance metrics Viz / #50.
+Showing results for Advert Sales Drivers and their performance metrics Viz / #50...
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/Ads-SalesDashboard/Dashboard1)
 
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7303581624032481280/)
@@ -51,13 +51,16 @@ Healthcare service providers face challenges in managing patient bookings, reduc
 
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7313765139105677313/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling, Story telling and Time Series using Super Store Sales.**
 
-![image](assets/car.jpg)
+![image](assets/Sales Dashboard IMPV_with Purple.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+While separating dashboards is common for clarity 💯, 🤔 Combining sales and customer dashboards in one page can be a smart move when done right
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+One page keeps things simple for Non-technical users. No need to toggle between tabs , just one clean interactive view.. 
+[Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/SalesCustomerDashboardIMPV/SalesDashboard2)
+
+[Read More](https://www.linkedin.com/feed/update/urn:li:activity:7319984104995774464/)
 
 
 ## MY CLASSES
