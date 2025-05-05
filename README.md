@@ -31,10 +31,12 @@ Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming
 *Feel free to explore my Real world projects and work.*
 
 **Analysis Modelling and Design Implimentaion using JT Advertizing Sales Company.**
+
 ![image](assets/AD Sales Dashboard Main.png)
 
 Ad Sales Dashboard 
 Showing results for Advert Sales Drivers and their performance metrics Viz / #50.
+
 [Dashboard](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/Ads-SalesDashboard/Dashboard1)
 
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7303581624032481280/)
