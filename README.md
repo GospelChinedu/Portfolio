@@ -1,7 +1,9 @@
 <!--Section 1: Introduce your self-->
-## ABOUT ME
+## PROFILE SUMMARY
 
-👋 Hello! I'm **Gospel Chinedu K.**, a passionate Data Analyst based in Rivers State, Nigeria. I specialize in transforming raw data into actionable insights that drive business decisions. With a strong background in tools like Excel, Power BI, SQL, and Tableau, I strive to enhance data visualization and storytelling.
+👋 Hello!
+I'm **Gospel Chinedu K.**, a passionate Data Analyst based in Rivers State, Nigeria. I specialize in transforming raw data into actionable insights that drive business decisions. With a strong background in tools like Excel, Power BI, SQL, and Tableau, I strive to enhance data visualization and storytelling.
+I am experienced, dedicated, results-oriented in Deskside Support and Help Desk Services with the Concept and scope of work which includes sever management, content development, Incident Management, software and hardware including Microsoft applications. 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -21,8 +23,10 @@ Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
+[Click to View](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/vizzes)
 
-*A glimpse of some of the projects I've been working on.*
+
+*Feel free to explore my Real world projects and work.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](assets/car2.jpeg)
