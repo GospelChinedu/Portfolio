@@ -63,11 +63,12 @@ One page keeps things simple for Non-technical users. No need to toggle between 
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7319984104995774464/)
 
 
-**Analysis | Design | Story telling | and Modelling using Hotel Guest Feedback.**
+**Analysis Design Story telling and Modelling using Hotel Guest Feedback.**
 
 ![image](assets/Hotel .jpg)
 
 Understanding the demographics and booking patterns of the hotel's guests, Hence Evaluating guest satisfaction and loyalty, including factors that influence their satisfaction and NPS ratings.
+
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/HotelCustomerServiceFeedback/MainDashboard)
 
 
@@ -80,15 +81,17 @@ The Performance of the Dashboard Uncovered meaninful insight, Showing...
 👉Relationship between $ Sales & # Quantity
 👉Clickable Filter Drop down Button
 👉Calendar Filter button Slicing through Month/Week/Day
+
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/CHOCOSALESANALYTICDASHBOARD/CHOCOSALESDB1)
 
 
-**Analysis | Design | Story telling | and Modelling using Breast Cancer Survivals.**
+**Analysis|Design|Story telling|and Modelling using Breast Cancer Survivals.**
 
 ![image](assets/Cancer.jpg)
 
 
 The CMD will love to know which Stage of cancer is more Threatening so as to channel preventive awareness, surgery type with the highest occurrence, Patient status distribution volume also to track the age band Insurance Frequency Distribution and the Year with the Highest Surgery Occurrence including Valued KPIs.
+
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/CHOCOSALESANALYTICDASHBOARD/CHOCOSALESDB1)
 
 
