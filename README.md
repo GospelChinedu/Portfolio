@@ -30,9 +30,9 @@ Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming
 
 *Feel free to explore my Real world projects and work.*
 
-**Analysis Modelling and Design Implimentaion using JT Advertizing Sales Company.**
+**Analysis Modelling and Design Implimentaion using JT Ad Sales.**
 
-![image](assets/AD Sales Dashboard Main.png)
+![image](assets/AD Sales.jpg)
 
 Ad Sales Dashboard 
 Showing results for Advert Sales Drivers and their performance metrics Viz / #50.
@@ -41,11 +41,13 @@ Showing results for Advert Sales Drivers and their performance metrics Viz / #50
 
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7303581624032481280/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Analysis Modeling and Story Telling using HealthPlus(+) RWFD.**
 
-![image](assets/agro.jpg)
+![image](assets/HEALTH Plus DASHBOARD .jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+Healthcare service providers face challenges in managing patient bookings, reducing missed appointments, and improving patient satisfaction
+
+✅ This Dashboard is designed with digital transformation parameter tool,  playing a crucial role in optimizing patient care and service delivery... 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
