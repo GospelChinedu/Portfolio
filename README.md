@@ -47,7 +47,7 @@ Showing results for Advert Sales Drivers and their performance metrics Viz / #50
 Healthcare service providers face challenges in managing patient bookings, reducing missed appointments, and improving patient satisfaction
 
 ✅ This Dashboard is designed with digital transformation parameter tool,  playing a crucial role in optimizing patient care and service delivery... 
-[TableauViz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/HealthPlusDashboard/HEALTHPlusDASHBOARD)
+[Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/HealthPlusDashboard/HEALTHPlusDASHBOARD)
 
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7313765139105677313/)
 
