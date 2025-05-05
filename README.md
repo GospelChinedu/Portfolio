@@ -57,8 +57,7 @@ Healthcare service providers face challenges in managing patient bookings, reduc
 
 While separating dashboards is common for clarity 💯, 🤔 Combining sales and customer dashboards in one page can be a smart move when done right
 
-One page keeps things simple for Non-technical users. No need to toggle between tabs , just one clean interactive view.. 
-[Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/SalesCustomerDashboardIMPV/SalesDashboard2)
+One page keeps things simple for Non-technical users. No need to toggle between tabs , just one clean interactive view.. [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/SalesCustomerDashboardIMPV/SalesDashboard2)
 
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7319984104995774464/)
 
@@ -79,8 +78,7 @@ The Performance of the Dashboard Uncovered meaninful insight, Showing...
 👉Progress Bar Chart showing Sales Agents & $Sales %
 👉Relationship between $ Sales & # Quantity
 👉Clickable Filter Drop down Button
-👉Calendar Filter button Slicing through Month/Week/Day
-[Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/CHOCOSALESANALYTICDASHBOARD/CHOCOSALESDB1)
+👉Calendar Filter button Slicing through Month/Week/Day [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/CHOCOSALESANALYTICDASHBOARD/CHOCOSALESDB1)
 
 
 **Analysis Design Story telling and Modelling using Breast Cancer Survivals.**
@@ -89,7 +87,6 @@ The Performance of the Dashboard Uncovered meaninful insight, Showing...
 
 
 The CMD will love to know which Stage of cancer is more Threatening so as to channel preventive awareness, surgery type with the highest occurrence, Patient status distribution volume also to track the age band Insurance Frequency Distribution and the Year with the Highest Surgery Occurrence including Valued KPIs.
-
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/CHOCOSALESANALYTICDASHBOARD/CHOCOSALESDB1)
 
 
@@ -103,8 +100,10 @@ The CMD will love to know which Stage of cancer is more Threatening so as to cha
 
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
-## MY COURSES
-*You can get these courses today.*
+## LEARNING RESOURCES
+*Click to Access Videos and Learning Materials.*
+
+[YOUTUBE](https://www.youtube.com/@NedteCh)
 
 **Performance Analysis**
 ![image](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
