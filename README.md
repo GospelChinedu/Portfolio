@@ -72,7 +72,7 @@ Understanding the demographics and booking patterns of the hotel's guests, Hence
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/HotelCustomerServiceFeedback/MainDashboard)
 
 
-**Analysis | Design | Story telling | and Modelling using Global Choco Sales.**
+**Analysis Design Story telling and Modelling using Global Choco Sales.**
 
 ![image](assets/CHOCO SALES DB.jpg)
 
@@ -85,7 +85,7 @@ The Performance of the Dashboard Uncovered meaninful insight, Showing...
 [Tableau Viz](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/CHOCOSALESANALYTICDASHBOARD/CHOCOSALESDB1)
 
 
-**Analysis|Design|Story telling|and Modelling using Breast Cancer Survivals.**
+**Analysis Design Story telling and Modelling using Breast Cancer Survivals.**
 
 ![image](assets/Cancer.jpg)
 
