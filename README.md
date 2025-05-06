@@ -133,8 +133,7 @@ your industry.
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="gospe4life@gmail.com
-">gospe4life@gmail.com</a></td>
+     <td><a href="mailto:gospe4life@gmail.com">gospe4life@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
