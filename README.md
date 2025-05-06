@@ -97,6 +97,10 @@ The CMD will love to know which Stage of cancer is more Threatening so as to cha
 - **Consultant** | Private, Business, Companies, Educational Centers.								       		
 - **Platforms**	| Physical, Virtual, Remotely. 			        		
 - **Courses**   | ICT Digital Life Style , Advanced Excel, Power BI, SQL, Tableau, AWS.
+  
+- **Consultant** | Private, Business, Companies, Educational Centers.							       		
+- **Platforms**	| Physical, Virtual, Remotely, In-person 			        		
+- **Courses** | ICT Digital Life Style , Advanced Excel, Power BI, SQL, Tableau, AWS.
 
 
 <!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
