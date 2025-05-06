@@ -104,16 +104,19 @@ The CMD will love to know which Stage of cancer is more Threatening so as to cha
 *Click to Access Videos and Learning Materials.*
 
 [YOUTUBE](https://www.youtube.com/@NedteCh)
+![image](assets/Github youtube list 2.jpg)
 
 
-**Performance Analysis**
-![image](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
-Advanced Data Analytics: Mastering the Craft with Portfolio Project using Excel. Master data analytics by solving real-world sales problems using MS Excel 2021, learn core dashboard design and presentation skills and create your portfolio project. This course is designed for beginners and professional data analyst.
 
-[Get this course](https://selar.co/salesdata)
+**Data Visualization**
+![image](assets/Untitled design (2).png)
+Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming Uncertainty into Insight.
+- Follow me and I follow back!
 
-**Attrition Analysis**
-![image](assets/417528845_10224984773746792_6587086704764480413_n.jpg)
+[Visit Our Website](https://nedtech.my.canva.site/)
+
+**Support Services**
+![image](assets/Untitled design (2).png)
 In this course, you will learn how to analyze HR and employee data, including demographics, job roles, performance metrics, and workplace satisfaction, to identify the underlying causes and predictors of employee attrition.
 
 [Get this course](https://selar.co/q688i7)
