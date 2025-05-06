@@ -145,7 +145,7 @@ your industry.
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://www.public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/ProfessionalResume-GospelChineduk/Gospel_Resume_DashBoard">Download my CV</a></td>
+      <td><a href="https://bit.ly/4iT0L9J">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
