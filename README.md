@@ -116,10 +116,10 @@ Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming
 [Visit Our Website](https://nedtech.my.canva.site/)
 
 **Support Services**
-![image](assets/Untitled design (2).png)
+![image](assets/Canva site.jpg)
 In this course, you will learn how to analyze HR and employee data, including demographics, job roles, performance metrics, and workplace satisfaction, to identify the underlying causes and predictors of employee attrition.
 
-[Get this course](https://selar.co/q688i7)
+[Follow Me Here](https://www.youtube.com/@NedteCh)
 
 
 ## CONTACT DETAILS
@@ -129,27 +129,27 @@ In this course, you will learn how to analyze HR and employee data, including de
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:gospe4life@gmail.com">gospe4life@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 806-879-9778</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Lagos, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="[https://etuk123456.github.io/portfolio1/docs/Profile.pdf](https://public.tableau.com/app/profile/gospel.chinedu.nwachukwu/viz/ProfessionalResume-GospelChineduk/Gospel_Resume_DashBoard)">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/neduchinex/">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@NedteCh">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
