@@ -117,7 +117,11 @@ Developing Tableau Storytelling for an Informed, Data-Driven World: Transforming
 
 **Support Services**
 ![image](assets/Canva site.jpg)
-In this course, you will learn how to analyze HR and employee data, including demographics, job roles, performance metrics, and workplace satisfaction, to identify the underlying causes and predictors of employee attrition.
+**What Sets Us Apart** 
+- Expertise in ICT and Digital Lifestyle, and the way technology influences the daily activities of individuals, including how they communicate, work, entertain themselves, and manage their lives.  
+- Data Analytics Unlock the power of your data with our advanced Data Analytics services. We turn raw data 
+into actionable insights, helping you make informed decisions and gain a competitive edge in 
+your industry.
 
 [Follow Me Here](https://www.youtube.com/@NedteCh)
 
